@@ -1,0 +1,213 @@
+body{
+background-color: rgb(253, 253, 255);
+}
+.h1{
+    color: rgb(255, 255, 255);
+    font-style: bold;
+    margin-inline-start: 80px;
+    padding-top: 15px;
+    padding-bottom: 30px;
+}
+.about{
+    color: rgb(179, 153, 11);
+    font-style: bold;
+    margin-inline-start: 80px;
+}
+li{
+    display: inline;
+}
+.electrodata{
+    text-align: center;
+    margin-top: 50px;
+    margin-right: 30px;
+    margin-left: 30px;
+    font-size: 20px;
+    margin-bottom: 50px;
+    color: white;
+}
+
+.nav{
+    margin-left: 750px;
+}
+.IMG1{
+    margin-top: 19px;
+}
+.cellphones{
+    margin-top: 30px;
+    color: rgb(179, 153, 11);
+    font-style: bold;
+    font-size: 30px;
+    margin-bottom: 30px;
+    
+}
+.cards{
+    display: inline-flex;
+    margin-inline-start: 120px;
+}
+.card1{
+    margin-inline-start: 120pxpx;
+    
+}
+.card2{
+    margin-left: 60px;
+background-color: rgba(128, 128, 128, 0.514);
+}
+.card3{
+    margin-left: 60px ;
+}
+.card4{
+    margin-left: 60px;
+}
+.card5{
+    margin-left: 60px;
+}
+
+.lptp{
+    margin-top: 30px;
+    color: rgb(179, 153, 11);
+    font-style: bold;
+    font-size: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.cardss{
+    display: inline-flex;
+    margin-inline-start: 120px;
+}
+.card7{
+    margin-inline-start: 100pxpx;
+}
+.card8{
+    margin-left: 60px;
+}
+.card9{
+    margin-left: 60px;
+}
+.card10{
+    margin-left: 60px;
+}
+.card11{
+    margin-left: 60px;
+}
+.card12{
+    margin-left: 60px;
+}
+
+
+
+.nokia2{
+    display: inline-flex;
+    margin-inline-start: 120px;
+}
+.nokia4{
+    margin-inline-start: 100pxpx;
+}
+.nokia5{
+    margin-left: 60px;
+}
+.nokia6{
+    margin-left: 60px;
+}
+.nokia03{
+    display: inline-flex;
+    margin-inline-start: 120px;
+}
+.nokia7{
+    margin-inline-start: 100pxpx;
+}
+.nokia8{
+    margin-left: 60px;
+}
+.nokia9{
+    margin-left: 60px;
+}
+
+.reviews{
+    margin-top: 30px;
+    color: rgb(179, 153, 11);
+    font-style: bold;
+    font-size: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+}
+.body2{
+    background-color: rgba(10, 9, 54, 0.459);
+}
+
+
+.cardss{
+    display: flex;
+}
+.button{
+    background-color: grey;
+    border: 2px solid grey;
+    color: white;
+    margin-left: 3px;
+}
+
+
+.card-columns
+{
+    
+    margin-inline-start: 20px;
+    margin-right: 20px;
+    column-count: 2 !important;
+    position: relative;
+    top: 10%;
+    transform: translateY(10%);
+    -moz-transform: translateY(10%);
+}
+.ul{
+    width: 50px;
+}
+.link{
+    color: rgba(0, 0, 0, 0.822) ;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.footer{
+    background-color: rgb(1, 1, 82);
+    color: white;
+}
+.bg{
+    background-image: url(https://www.itl.cat/pngfile/big/33-331454_desktop-wallpaper-hd-full-screen-free-download-blue.jpg);
+}
+.strow{
+    display: inline-flex;
+    margin-inline-start: 40px;
+    margin-inline-end: 100px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.boxes{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-image: url(176039.jpg)
+    
+}
+.form{
+    margin-inline-start: 500px;
+    color: beige;
+    
+}
+.tt1{
+    margin-inline-start: 150px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.tt2{
+    margin-inline-start: 700px;
+    padding-bottom: 30px;
+}
+.comment{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-inline-start: 400px;
+}
+
+
+
+
+
+
